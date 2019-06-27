@@ -1,0 +1,14 @@
+﻿Press any following key to perform an arithmetic operation:
+1 - Addition
+2 - Subtraction
+3 - Multipliation
+4 - Division
+1
+Enter Value 1: 10
+Enter Value 2: 20
+10 + 20 = 30
+Do you want to continue again (Y/N)?
+Tips:
+• Use separate method for +, – , *, /
+• Use switch-case structure to select user choice.
+• Use while loop to repeat the program until user presses “N”.
