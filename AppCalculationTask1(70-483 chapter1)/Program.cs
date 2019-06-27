@@ -111,7 +111,7 @@ namespace AppCalculationTask1_70_483_chapter1_
                         break;
                     } else if(ch=='Y' || ch=='y')
                     {
-                        Console.WriteLine("\nЭкран будет очищке...сохраните вычисления)");
+                        Console.WriteLine("\nЭкран будет очищен...сохраните вычисления)");
                         Console.ReadLine();
                         break;
                     }
